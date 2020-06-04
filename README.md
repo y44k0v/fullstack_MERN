@@ -1,2 +1,2 @@
 # fullstack_MRN
-nodejs api, webserver with mongodb
+nodejs api, webserver with mongodb-react
