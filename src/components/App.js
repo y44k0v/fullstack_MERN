@@ -1,8 +1,10 @@
-import React, { useState } from 'react';
+import React, {
+    useState
+} from 'react';
 
 export default function App() {
     const [count, setCount] = useState(0);
-    return ( <
+    return ( < center > <
         div >
         This is a sample stateful and server - side rendered React application. <
         br / >
@@ -16,7 +18,9 @@ export default function App() {
         <
         button onClick = {
             () => setCount(count + 1)
-        } > { count } < /button> < /
-        div >
+        } > {
+            count
+        } < /button> < /
+        div > < /center>
     );
 }
