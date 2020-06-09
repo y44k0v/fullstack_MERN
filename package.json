@@ -1,0 +1,22 @@
+{
+    "name": "fullstack_mern",
+    "version": "1.0.0",
+    "description": "nodejs api, webserver with mongodb-react",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ykv001/fullstack_MERN.git"
+    },
+    "author": "Yaakov Miller",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ykv001/fullstack_MERN/issues"
+    },
+    "homepage": "https://github.com/ykv001/fullstack_MERN#readme",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
